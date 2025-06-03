@@ -1,4 +1,4 @@
-# 👋 Hola, soy Yefersom
+# 👋 Hola, soy Yeferson
 
 Soy un desarrollador junior con conocimientos en tecnologías modernas como **Angular**, **Java (Spring Boot)**, **MySQL**, **HTML** e **Ionic**. Me apasiona construir aplicaciones web funcionales, aprender nuevas herramientas y seguir creciendo como profesional del software.
 
