@@ -1,15 +1,18 @@
 # 👋 Hola, soy Yeferson
 
-Soy un desarrollador junior con conocimientos en tecnologías modernas como **Angular**, **Java (Spring Boot)**, **MySQL**, **HTML** e **Ionic**. Me apasiona construir aplicaciones web funcionales, aprender nuevas herramientas y seguir creciendo como profesional del software.
+Soy estudiante de Ingeniería de Sistemas y desarrollador junior, con experiencia en Angular, Spring Boot e Ionic. Me apasiona el desarrollo web fullstack y busco mi primera oportunidad laboral para aplicar mis conocimientos en proyectos reales.
 
 ---
 
 ## 🧰 Tecnologías que manejo
 
-- 🌐 Frontend: **HTML**, **Angular**, **Ionic**
-- 💻 Backend: **Java**, **Spring Boot**
-- 🗄️ Base de datos: **MySQL**
-- ⚙️ Otros: Git, GitHub, Postman, Swagger
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
 ---
 
@@ -32,15 +35,14 @@ Sistema de gestión para un lavadero de autos con funcionalidades como:
 ## 📈 Actualmente estoy...
 
 - Aprendiendo más sobre **Spring Boot avanzado** y **Angular con RxJS**.
+- Desarrollando proyectos personales para fortalecer mi portafolio
 - Mejorando mis proyectos y preparándome para mi primer trabajo como desarrollador.
-
 ---
 
 ## 📫 Contacto
 
-- ✉️ Email: herediaperdomoyefersom@gmail.com  
-- 💼 LinkedIn: N/A 
-- 💻 GitHub: [github.com/Yefersom10](https://github.com/Yefersom10)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:herediaperdomoyefersom@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yefersom10)
 
 ---
 
