@@ -11,17 +11,33 @@ Soy estudiante de Ingeniería de Sistemas y desarrollador junior, con experienci
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
 ---
-
+<
 ## 🚀 Proyectos destacados
 
 ### 📱 Clinic Manager (Ionic + Angular)
 Aplicación híbrida para gestionar roles en una clínica. Cuenta con CRUD completo y desarrollo frontend sin backend.  
+
 🔗 [Ver repositorio](https://github.com/Yefersom10/Clinic_Manager.git)
 
+### Voice Assistant 🎙️
+
+Asistente con interfaz gráfica que habla y responde comandos.
+
+#### 🛠️ Tecnologías
+* **Python** + **Tkinter** (Interfaz)
+* **Pyttsx3** (Voz)
+  
+🔗 [Ver repositorio](https://github.com/Yefersom10/SimpleSpeak-Assistant.git)
+
+#### 📋 Funciones
+* Decir la hora y fecha por voz.
+* Reconocimiento de palabras clave por texto.
+* Mensajes emergentes en pantalla.
+  
 ### 🚗 Picha Lavado (Angular + Spring Boot)
 Sistema de gestión para un lavadero de autos con funcionalidades como:  
 - Reservas y gestión de clientes  
