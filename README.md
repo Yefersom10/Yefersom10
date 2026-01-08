@@ -31,13 +31,13 @@ Asistente con interfaz gráfica que habla y responde comandos.
 * **Python** + **Tkinter** (Interfaz)
 * **Pyttsx3** (Voz)
   
-🔗 [Ver repositorio](https://github.com/Yefersom10/SimpleSpeak-Assistant.git)
-
 #### 📋 Funciones
 * Decir la hora y fecha por voz.
 * Reconocimiento de palabras clave por texto.
 * Mensajes emergentes en pantalla.
-  
+
+🔗 [Ver repositorio](https://github.com/Yefersom10/SimpleSpeak-Assistant.git)
+ 
 ### 🚗 Picha Lavado (Angular + Spring Boot)
 Sistema de gestión para un lavadero de autos con funcionalidades como:  
 - Reservas y gestión de clientes  
