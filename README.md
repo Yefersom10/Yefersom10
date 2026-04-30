@@ -1,6 +1,8 @@
 # 👋 Hola, soy Yeferson
 
-Soy estudiante de Ingeniería de Sistemas y desarrollador junior, con experiencia en Angular, Spring Boot e Ionic. Me apasiona el desarrollo web fullstack y busco mi primera oportunidad laboral para aplicar mis conocimientos en proyectos reales.
+Soy estudiante de Ingeniería de Sistemas enfocado en desarrollo backend, con experiencia en construcción de APIs REST usando Spring Boot y manejo de bases de datos relacionales como MySQL.
+
+Me interesa crecer como Backend Engineer, aplicando buenas prácticas de desarrollo, arquitectura de software y trabajo en equipo bajo metodologías ágiles.
 
 ---
 
@@ -13,6 +15,14 @@ Soy estudiante de Ingeniería de Sistemas y desarrollador junior, con experienci
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+
+## ⚙️ Experiencia Backend
+
+- Desarrollo de APIs REST con Spring Boot
+- Implementación de CRUDs y lógica de negocio
+- Conexión a bases de datos con MySQL
+- Uso de Postman para pruebas de endpoints
+- Manejo básico de arquitectura en capas (controller, service, repository)
 
 ---
 <
@@ -38,11 +48,20 @@ Asistente con interfaz gráfica que habla y responde comandos.
 
 🔗 [Ver repositorio](https://github.com/Yefersom10/SimpleSpeak-Assistant.git)
  
-### 🚗 Picha Lavado (Angular + Spring Boot)
-Sistema de gestión para un lavadero de autos con funcionalidades como:  
-- Reservas y gestión de clientes  
-- Navegación dual (usuario / administrador)  
-- CRUD de servicios y control de acceso  
+### 🚗 Picha Lavado (Spring Boot + Angular)
+
+Sistema de gestión para un lavadero de autos con backend en Spring Boot.
+
+#### 🔧 Backend
+- API REST para gestión de clientes, servicios y reservas
+- Arquitectura en capas (Controller - Service - Repository)
+- Integración con base de datos MySQL
+- Validación de datos y control de acceso básico
+
+#### 🎯 Funcionalidades
+- CRUD de clientes y servicios
+- Sistema de reservas
+- Roles de usuario y administrador
 
 🔗 [Ver repositorio](https://github.com/Yefersom10/Picha_lavado_grupo11.git)
 
