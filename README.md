@@ -1,3 +1,9 @@
+<!--
+CONFIG
+FULL_NAME: Yeferson Esmid Heredia Perdomo
+GITHUB_USER: Yefersom10
+-->
+
 # 👋 Hola, soy Yeferson
 
 Soy estudiante de Ingeniería de Sistemas enfocado en desarrollo backend, con experiencia en construcción de APIs REST usando Spring Boot y manejo de bases de datos relacionales como MySQL.
